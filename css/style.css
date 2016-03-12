@@ -1,0 +1,42 @@
+body{ 
+
+	background: url('../images/bg.jpg');
+	font-family:'Questrial', sans-serif;
+	color:#191919;
+
+}
+.wrapper{
+
+	width:50%;
+	margin:2% auto;
+	padding:35px;
+	background:#fff;
+	-webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+	-o-box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+	-ms-box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+
+}
+.calendar{
+
+	margin:0% auto;
+	margin-top:5%;
+	bakcground:#191919;
+	text-align:center;
+}
+.monthName{
+
+	border-bottom:2px solid #ff0000;
+}
+.dayName{
+
+	font-weight:800;
+}
+.dayNum{
+
+	border-right:1px solid #e5e5e5;
+	border-bottom:1px solid #e5e5e5;
+
+}
+
